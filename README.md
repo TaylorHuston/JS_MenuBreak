@@ -1,4 +1,4 @@
-menuBreak
+MenuBreak
 =========
 
 JS to break a nav menu
